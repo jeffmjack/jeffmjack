@@ -5,8 +5,8 @@ I'm a recovering CEO, really enjoying a shift into software engineering.
 - 🔭 I’m currently working a gig writing JS snippets for a frontend optimization agency
 - 🌱 I’m interested in Rust and Substrate
 - 🤖 I've pinned some software projects I did below:
--   👾 temp_monitor was a Raspberry Pi-based temperature monitoring system I built for a walkin cooler in a commercial kitchen that I own
--   👾 food_for_thought was a Python based webapp (flask, mysql, uwsgi, docker) that I made for an office catering company I started with a friend
+  - 👾 temp_monitor was a Raspberry Pi-based temperature monitoring system I built for a walkin cooler in a commercial kitchen that I own
+  - 👾 food_for_thought was a Python-based webapp (flask, mysql, uwsgi, docker) that I made for an office catering company I started with a friend
 -   
 - 📫 Reach me: at jeffmjack@gmail.com
 - 😄 Pronouns: he/him
